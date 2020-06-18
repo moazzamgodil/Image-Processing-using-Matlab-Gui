@@ -1,6 +1,6 @@
 # Image Processing using Matlab Gui
 
-## DSP Project
+### DSP Project
 
 </br>
 
